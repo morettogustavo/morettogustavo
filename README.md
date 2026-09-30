@@ -1,10 +1,10 @@
 # Olá, eu sou o Gustavo Moretto 👋
 
-Desenvolvedor focado em **C# e .NET**, com experiência em sistemas de gestão empresarial (ERP) e aplicações desktop.
+Desenvolvedor focado em **C# e .NET** e Delphi, com experiência em sistemas de gestão empresarial (ERP) e aplicações desktop.
 
 ## 🚀 Sobre mim
 
-- 💻 Trabalho principalmente com **C# (.NET Framework / Windows Forms)**
+- 💻 Trabalho principalmente com **C# (.NET Framework / Windows Forms) e Delphi**
 - 🏢 Desenvolvo e mantenho módulos para sistemas ERP
 - 🔌 Tenho experiência com bancos de dados e integrações de sistemas
 - 🧾 Atuo com soluções comerciais, documentos fiscais e automação empresarial
