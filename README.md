@@ -18,7 +18,7 @@ Desenvolvedor focado em **C# e .NET** e Delphi, com experiência em sistemas de 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastReport](https://img.shields.io/badge/FastReport-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastReport](https://img.shields.io/badge/FastReport-F1000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Como me encontrar
 
