@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo Moretto 👋
+
+Desenvolvedor focado em **C# e .NET**, com experiência em sistemas de gestão empresarial (ERP) e aplicações desktop.
+
+## 🚀 Sobre mim
+
+- 💻 Trabalho principalmente com **C# (.NET Framework / Windows Forms)**
+- 🏢 Desenvolvo e mantenho módulos para sistemas ERP
+- 🔌 Tenho experiência com bancos de dados e integrações de sistemas
+- 🧾 Atuo com soluções comerciais, documentos fiscais e automação empresarial
+- 📚 Estou sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+
+## 🛠️ Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=morettogustavo&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Gustavo Moretto" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morettogustavo&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Gustavo Moretto" />
+</p>
+
+## 📫 Como me encontrar
+
+- 👨‍💻 GitHub: [@morettogustavo](https://github.com/morettogustavo)
+
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar meus projetos!
 
 <!--
-**morettogustavo/morettogustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Para incluir outros dados, remova este comentário e adicione itens como:
+- 📍 Sua cidade e estado
+- 💼 LinkedIn: https://www.linkedin.com/in/seu-usuario
+- ✉️ E-mail: seu-email@exemplo.com
 -->
