@@ -18,13 +18,6 @@ Desenvolvedor focado em **C# e .NET**, com experiência em sistemas de gestão e
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=morettogustavo&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Gustavo Moretto" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morettogustavo&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Gustavo Moretto" />
-</p>
-
 ## 📫 Como me encontrar
 
 - 👨‍💻 GitHub: [@morettogustavo](https://github.com/morettogustavo)
